@@ -1,0 +1,24 @@
+utenza gmail
+
+portal.gluten.free@gmail.com
+23Fg34R53WoQ2
+
+utenza altervista
+Username: portal.gluten.free@gmail.com
+Password: fBE4gZwn9zCH
+
+Complimenti, ora hai un account Hosting con file manager! Ti è stata inviata una email di conferma all'indirizzo . Buon divertimento!
+Questi sono i nuovi dati per accedere al tuo pannello di controllo:
+
+Nome utente: avid3909554
+Password: la tua attuale password del blog
+
+Indirizzo FTP
+
+    Host: ftp.avid3909554.altervista.org
+    Utente: avid3909554
+    Password: la stessa che usi per accedere al pannello
+    Porta: 21 / Modalità: passiva (PASV)
+
+-----------------
+
